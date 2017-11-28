@@ -1,0 +1,4 @@
+XamarinWeatherApp.MainActivity, XamarinWeatherApp;md521c5ffc47b57fcc1b1f348de307caa89.MainActivity
+XamarinWeatherApp.MainActivity, XamarinWeatherApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md521c5ffc47b57fcc1b1f348de307caa89.MainActivity
+XamarinWeatherApp.MainActivity;md521c5ffc47b57fcc1b1f348de307caa89.MainActivity
+xamarinweatherapp.MainActivity;md521c5ffc47b57fcc1b1f348de307caa89.MainActivity
